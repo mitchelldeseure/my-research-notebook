@@ -1,1 +1,1 @@
-(https://github.com/mitchelldeseure/patchwork.git "Link to Exercise #2 Repository")
+[Exercise #2 Repository](https://github.com/mitchelldeseure/patchwork.git "Link to Exercise #2 Repository")
