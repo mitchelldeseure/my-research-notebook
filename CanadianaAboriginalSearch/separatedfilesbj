@@ -1,0 +1,40 @@
+      "identifier" : [
+         "8_06877_324"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "St. John, N.B. : publisher not identified, [1916]"
+      ],
+      "note" : [
+         "Monthly",
+         "Index to Vol. XXIX in issue for May, 1916, CIHM no. 8_06877_327."
+      ],
+      "pkey" : "oocihm.8_06877",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06877_324",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06877_324",
+      "label" : "February, 1916.",
+      "source" : [
+         "Scanned from a microfilm held by Library and Archives Canada."
+      ],
+      "contributor" : "oocihm"
+   },
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06877_324/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "doc" : {
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06877_346",
+      "label" : "February, 1918.",
+      "source" : [
+         "Scanned from a microfilm held by Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06877",
+      "key" : "oocihm.8_06877_346",
+      "media" : [
+         "text"
+      ],

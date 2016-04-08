@@ -1,0 +1,32 @@
+      "identifier" : [
+         "8_06922_81"
+      ],
+      "published" : [
+         "Woodstock, Ont. : Printed by the Rod and Gun Press, [1917]"
+      ],
+      "note" : [
+         "Monthly 1913-1920"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "pkey" : "oocihm.8_06922",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06922_81",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06922_81",
+      "label" : "Vol. XIII No. 1 (January, 1917.)",
+      "contributor" : "oocihm",
+      "source" : [
+         "Library and Archives Canada."
+      ]
+   }
+}
+{
+   "version" : "0.4",
+   "doc" : {
+      "title" : [
+         "Revue Dominicaine. : Novembre 1915"
+      ],
+      "type" : "document",

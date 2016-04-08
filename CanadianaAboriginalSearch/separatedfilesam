@@ -1,0 +1,31 @@
+      "identifier" : [
+         "8_06854_7"
+      ],
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06854_7",
+      "pkey" : "oocihm.8_06854",
+      "contributor" : "oocihm",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "label" : "Seventh Number (February 13th, 1915)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06854_7"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06854_5/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06854_5",
+      "label" : "Fifth Number (January 30, 1915)",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06854",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06854_5",

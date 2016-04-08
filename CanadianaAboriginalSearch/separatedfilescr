@@ -1,0 +1,48 @@
+      "identifier" : [
+         "82714",
+         "FC 02 0203 no. 82714"
+      ],
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.82714",
+      "contributor" : "oocihm",
+      "label" : "Decorative art of Indian tribes of Connecticut",
+      "location" : "http://eco.canadiana.ca/view/oocihm.82714"
+   },
+   "version" : "0.4",
+   "request" : "http://eco.canadiana.ca/view/oocihm.82714/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.71163/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "key" : "oocihm.71163",
+      "media" : [
+         "text"
+      ],
+      "contributor" : "oocihm",
+      "label" : "Skookum Chuck fables",
+      "location" : "http://eco.canadiana.ca/view/oocihm.71163",
+      "type" : "document",
+      "title" : [
+         "Skookum Chuck fables : bits of history, through the microscope (some of which appeared in the Ashcroft journal)",
+         "CIHM/ICMH microfiche series ; no. 71163"
+      ],
+      "subject" : [
+         "Canadian fiction (English), CIHM.",
+         "Roman canadien-anglais, ICMH."
+      ],
+      "published" : [
+         "[British Columbia? : s.n.], c1915."
+      ],
+      "note" : [
+         "2 microfiches (91 fr.) : port.",
+         "Watters (2nd ed.), p. 609.",
+         "167 p. : port. ; 20 cm."
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "creator" : [
+         "Cumming, R. D. (Robert Dalziel), 1871-1958."
+      ],

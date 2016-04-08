@@ -1,0 +1,29 @@
+      "identifier" : [
+         "77347",
+         "FC 02 0203 no. 77347"
+      ],
+      "subject" : [
+         "Canadian fiction (English), CIHM.",
+         "Roman canadien-anglais, ICMH."
+      ],
+      "title" : [
+         "The money master : being the curious history of Jean Jacques Barbille, his labours, his loves and his ladies",
+         "CIHM/ICMH microfiche series ; no. 77347"
+      ],
+      "type" : "document"
+   },
+   "version" : "0.4",
+   "request" : "http://eco.canadiana.ca/view/oocihm.77347/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.97514/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "subject" : [
+         "Satire and humour, Canadian (English), CIHM.",
+         "Satire et humeur canadiennes-anglaises, ICMH."
+      ],
+      "title" : [
+         "The whirlpool : scenes from Toronto police court",
+         "CIHM/ICMH microfiche series ; no. 97514"
+      ],
+      "type" : "document",

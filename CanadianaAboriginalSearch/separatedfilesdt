@@ -1,0 +1,24 @@
+      "identifier" : [
+         "8_06251_259"
+      ],
+      "key" : "oocihm.8_06251_259",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06251",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_259",
+      "label" : "Vol. 43, no. 5 (Sept. 1914)"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06251_274/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "type" : "document",
+      "title" : [
+         "The Canadian magazine"
+      ],

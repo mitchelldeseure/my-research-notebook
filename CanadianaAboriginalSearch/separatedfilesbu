@@ -1,0 +1,26 @@
+      "identifier" : [
+         "8_06619_1423"
+      ],
+      "published" : [
+         "Montréal : Compagnie de Publications des Marchands Détailleurs du Canada, [1914]"
+      ],
+      "note" : [
+         "Hebdomadaire."
+      ],
+      "lang" : [
+         "fra"
+      ],
+      "title" : [
+         "Le prix courant"
+      ],
+      "type" : "document"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06619_1405/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "title" : [
+         "Le prix courant"
+      ],
+      "type" : "document",

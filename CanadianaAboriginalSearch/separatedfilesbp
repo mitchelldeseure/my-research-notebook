@@ -1,0 +1,38 @@
+      "identifier" : [
+         "8_06251_281"
+      ],
+      "title" : [
+         "The Canadian magazine"
+      ],
+      "type" : "document",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "label" : "Vol. 47, no. 3 (July 1916)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_281",
+      "key" : "oocihm.8_06251_281",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06251"
+   },
+   "version" : "0.4"
+}
+{
+   "doc" : {
+      "pkey" : "oocihm.8_06251",
+      "key" : "oocihm.8_06251_264",
+      "media" : [
+         "text"
+      ],
+      "label" : "Vol. 44, no. 4 (Feb. 1915)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_264",
+      "contributor" : "oocihm",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "title" : [
+         "The Canadian magazine"
+      ],
+      "type" : "document",

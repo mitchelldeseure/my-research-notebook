@@ -1,0 +1,34 @@
+      "identifier" : [
+         "8_06251_296"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "Toronto : Ontario Pub. Co., [1917]"
+      ],
+      "note" : [
+         "Monthly",
+         "Index for v. 49 in v. 49, no. 1, CIHM no. 8_06251_291."
+      ],
+      "type" : "document",
+      "title" : [
+         "The Canadian magazine"
+      ]
+   },
+   "version" : "0.4"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06251_251/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "label" : "Vol. 42, no. 3 (Jan. 1914)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_251",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06251",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06251_251",

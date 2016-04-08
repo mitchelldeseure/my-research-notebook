@@ -1,0 +1,47 @@
+      "identifier" : [
+         "8_06911_401"
+      ]
+   },
+   "version" : "0.4",
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06911_401/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "doc" : {
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.83542",
+      "contributor" : "oocihm",
+      "label" : "Tecumseh",
+      "location" : "http://eco.canadiana.ca/view/oocihm.83542",
+      "subject" : [
+         "Tecumseh,1768?-1813.",
+         "Tecumseh,1768?-1813.",
+         "Shawnee Indians -- Biography.",
+         "Shawnee (Indiens) -- Biographies.",
+         "Canada -- History -- War of 1812.",
+         "Canada -- Histoire -- 1812, Guerre de."
+      ],
+      "title" : [
+         "Tecumseh : a chronicle of the last great leader of his people",
+         "Chronicles of Canada ; 17."
+      ],
+      "type" : "document",
+      "lang" : [
+         "ben"
+      ],
+      "creator" : [
+         "Raymond, Ethel T., d. 1960."
+      ],
+      "note" : [
+         "Title from title screen.",
+         "Original issued in series: Chronicles of Canada ; 17.",
+         "Includes list of titles in the series.",
+         "\"Bibliographical note\": p. 153-154.",
+         "Includes index.",
+         "Watters (2nd ed.), p. 566",
+         "xi, 159 p., [5] leaves of plates : ill. (part col.), map, ports. ; 19 cm."
+      ],
+      "published" : [
+         "Toronto : Glasgow, Brook, 1915."
+      ],

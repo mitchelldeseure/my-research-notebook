@@ -1,0 +1,48 @@
+      "identifier" : [
+         "8_06912_228"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "note" : [
+         "Monthly"
+      ],
+      "published" : [
+         "Winnipeg, Canada : [Home Publishing Co., 1918]"
+      ],
+      "pkey" : "oocihm.8_06912",
+      "key" : "oocihm.8_06912_228",
+      "media" : [
+         "text"
+      ],
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06912_228",
+      "label" : "Christmas Number 1918",
+      "source" : [
+         "Scanned from a microfilm held by Library and Archives Canada."
+      ],
+      "contributor" : "oocihm"
+   },
+   "version" : "0.4",
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06912_228/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.85305/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "key" : "oocihm.85305",
+      "media" : [
+         "text"
+      ],
+      "location" : "http://eco.canadiana.ca/view/oocihm.85305",
+      "label" : "A reference handbook on the war",
+      "contributor" : "oocihm",
+      "subject" : [
+         "World War, 1914-1918.",
+         "World War, 1914-1918 -- Handbooks, manuals, etc.",
+         "Guerre mondiale, 1914-1918.",
+         "Guerre mondiale, 1914-1918 -- Guides, manuels, etc."
+      ],
+      "type" : "document",
+      "title" : [
+         "A reference handbook on the war : designed for the use of teachers"
+      ],

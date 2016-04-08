@@ -1,0 +1,37 @@
+      "identifier" : [
+         "71612"
+      ],
+      "key" : "oocihm.71612",
+      "media" : [
+         "text"
+      ],
+      "contributor" : "oocihm",
+      "label" : "Sons of Canada",
+      "location" : "http://eco.canadiana.ca/view/oocihm.71612"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.66635/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "contributor" : "oocihm",
+      "label" : "Service militaire obligatoire",
+      "location" : "http://eco.canadiana.ca/view/oocihm.66635",
+      "key" : "oocihm.66635",
+      "media" : [
+         "text"
+      ],
+      "lang" : [
+         "fra"
+      ],
+      "creator" : [
+         "Borden, Robert Laird, Sir, 1854-1937."
+      ],
+      "published" : [
+         "Ottawa : J. de L. Taché, 1917."
+      ],
+      "note" : [
+         "Titre de départ.",
+         "Title de l'écran-titre.",
+         "Texte sur deux colonnes.",
+         "41 p. ; 25 cm."
+      ],

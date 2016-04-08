@@ -1,0 +1,47 @@
+      "identifier" : [
+         "8_06830_14"
+      ],
+      "lang" : [
+         "fra"
+      ],
+      "published" : [
+         "Québec : [s.n., 1918]"
+      ],
+      "note" : [
+         "Deux fois par mois, 11 janv. 1919-25 mai 1919",
+         "Hebdomadaire, 11 juil. 1918-12 déc. 1918"
+      ],
+      "title" : [
+         "La vie canadienne"
+      ],
+      "type" : "document",
+      "label" : "T. 1, no 14 (10 oct. 1918)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06830_14",
+      "source" : [
+         "Bibliothèque et Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06830",
+      "key" : "oocihm.8_06830_14",
+      "media" : [
+         "text"
+      ]
+   },
+   "version" : "0.4"
+}
+{
+   "doc" : {
+      "title" : [
+         "La vie canadienne"
+      ],
+      "type" : "document",
+      "published" : [
+         "Québec : [s.n., 1918]"
+      ],
+      "note" : [
+         "Deux fois par mois, 11 janv. 1919-25 mai 1919",
+         "Hebdomadaire, 11 juil. 1918-12 déc. 1918"
+      ],
+      "lang" : [
+         "fra"
+      ],

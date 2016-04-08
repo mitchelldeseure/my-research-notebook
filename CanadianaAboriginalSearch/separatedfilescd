@@ -1,0 +1,40 @@
+      "identifier" : [
+         "8_06251_299"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "Toronto : Ontario Pub. Co., [1918]"
+      ],
+      "note" : [
+         "Monthly",
+         "Index for v. 50 in v. 50, no. 1, CIHM no. 8_06251_297."
+      ],
+      "title" : [
+         "The Canadian magazine"
+      ],
+      "type" : "document",
+      "label" : "Vol. 50, no. 3 (Jan. 1918)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_299",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06251",
+      "key" : "oocihm.8_06251_299",
+      "media" : [
+         "text"
+      ]
+   }
+}
+{
+   "version" : "0.4",
+   "doc" : {
+      "label" : "Poems from the press",
+      "location" : "http://eco.canadiana.ca/view/oocihm.80648",
+      "contributor" : "oocihm",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.80648",

@@ -1,0 +1,43 @@
+      "identifier" : [
+         "8_06830_23"
+      ],
+      "lang" : [
+         "fra"
+      ],
+      "published" : [
+         "Québec : [s.n., 1918]"
+      ],
+      "note" : [
+         "Deux fois par mois, 11 janv. 1919-25 mai 1919",
+         "Hebdomadaire, 11 juil. 1918-12 déc. 1918"
+      ],
+      "type" : "document",
+      "title" : [
+         "La vie canadienne"
+      ],
+      "label" : "T. 1, no 23 (12 déc. 1918)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06830_23",
+      "source" : [
+         "Bibliothèque et Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06830",
+      "key" : "oocihm.8_06830_23",
+      "media" : [
+         "text"
+      ]
+   },
+   "version" : "0.4"
+}
+{
+   "doc" : {
+      "published" : [
+         "Québec : [Cie de publication du Bulletin de la ferme, 1915]"
+      ],
+      "note" : [
+         "Hebdomadaire, 1922-1936",
+         "Mensuel, 1913-1921"
+      ],
+      "lang" : [
+         "fra"
+      ],

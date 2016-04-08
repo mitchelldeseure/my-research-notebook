@@ -1,0 +1,44 @@
+      "identifier" : [
+         "8_06349_97"
+      ],
+      "key" : "oocihm.8_06349_97",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06349",
+      "source" : [
+         "Bibliothèque et Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06349_97",
+      "label" : "Vol. 8, No 12 (Décembre 1915)"
+   },
+   "version" : "0.4"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06349_94/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "key" : "oocihm.8_06349_94",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06349",
+      "contributor" : "oocihm",
+      "source" : [
+         "Bibliothèque et Archives Canada."
+      ],
+      "label" : "Vol. 8, No 9 (Septembre 1915)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06349_94",
+      "title" : [
+         "La Revue Populaire. : Vol. 8, No 9 (Septembre 1915)"
+      ],
+      "type" : "document",
+      "note" : [
+         "Mensuel"
+      ],
+      "published" : [
+         "Montréal : Poirier, Bessette \u0026 Cie, [1915]"
+      ],
+      "lang" : [
+         "fra"
+      ],

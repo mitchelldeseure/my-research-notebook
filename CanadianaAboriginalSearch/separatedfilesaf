@@ -1,0 +1,30 @@
+      "identifier" : [
+         "8_06911_506"
+      ],
+      "published" : [
+         "Toronto : Courier Press, Limited, [1916]"
+      ],
+      "note" : [
+         "Biweekly Feb. 2, 1918-Oct. 15, 1920"
+      ],
+      "lang" : [
+         "eng"
+      ]
+   },
+   "version" : "0.4",
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06911_506/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "version" : "0.4",
+   "doc" : {
+      "label" : "Vol. XVIII. No. 11 (August 14th, 1915)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06911_455",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06911",
+      "key" : "oocihm.8_06911_455",
+      "media" : [
+         "text"
+      ],

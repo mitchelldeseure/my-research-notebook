@@ -1,0 +1,50 @@
+      "identifier" : [
+         "75418",
+         "FC 02 0203 no. 75418"
+      ],
+      "note" : [
+         "4 microfiches (184 fr.)",
+         "Novel.",
+         "x, 332, [1] p. ; 19 cm."
+      ],
+      "published" : [
+         "Toronto : S.B. Gundy, 1916."
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "creator" : [
+         "Parker, Gilbert, 1862-1932."
+      ],
+      "type" : "document",
+      "title" : [
+         "The world for sale",
+         "CIHM/ICMH microfiche series ; no. 75418"
+      ],
+      "subject" : [
+         "Guerre, 1914-1918 (Mondiale, 1re) -- Grande-Bretagne.",
+         "World War, 1914-1918 -- Great Britain."
+      ]
+   },
+   "version" : "0.4"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.90905/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "key" : "oocihm.90905",
+      "media" : [
+         "text"
+      ],
+      "label" : "Ceux qui souffrent",
+      "location" : "http://eco.canadiana.ca/view/oocihm.90905",
+      "contributor" : "oocihm",
+      "title" : [
+         "Ceux qui souffrent : pièce en un acte",
+         "CIHM/ICMH microfiche series ; no. 9-90905"
+      ],
+      "type" : "document",
+      "subject" : [
+         "Théâtre canadien-français, ICMH.",
+         "Canadian drama (French), CIHM."
+      ],

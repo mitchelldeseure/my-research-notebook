@@ -1,0 +1,13 @@
+      "identifier" : [
+         "8_06922_92"
+      ]
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_04911_821/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "type" : "document",
+      "title" : [
+         "Canada law journal [Vol. 50, no. 9 (May 1, 1914)]"
+      ],

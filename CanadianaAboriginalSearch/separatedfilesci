@@ -1,0 +1,61 @@
+      "identifier" : [
+         "76024"
+      ],
+      "published" : [
+         "Toronto : Musson ; London : Constable, [1916?]"
+      ],
+      "note" : [
+         "Title from title screen.",
+         "Some poems dated 1915.",
+         "Watters (2nd ed.), p. 177",
+         "33 leaves ; 18 cm."
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "creator" : [
+         "Scott, Frederick George, 1861-1944."
+      ],
+      "key" : "oocihm.76024",
+      "media" : [
+         "text"
+      ],
+      "location" : "http://eco.canadiana.ca/view/oocihm.76024",
+      "label" : "In the battle silences",
+      "contributor" : "oocihm"
+   },
+   "request" : "http://eco.canadiana.ca/view/oocihm.76024/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.75418/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "key" : "oocihm.75418",
+      "media" : [
+         "text"
+      ],
+      "contributor" : "oocihm",
+      "label" : "The world for sale",
+      "location" : "http://eco.canadiana.ca/view/oocihm.75418",
+      "type" : "document",
+      "title" : [
+         "The world for sale",
+         "CIHM/ICMH microfiche series ; no. 75418"
+      ],
+      "subject" : [
+         "Guerre, 1914-1918 (Mondiale, 1re) -- Grande-Bretagne.",
+         "World War, 1914-1918 -- Great Britain."
+      ],
+      "published" : [
+         "Toronto : S.B. Gundy, 1916."
+      ],
+      "note" : [
+         "4 microfiches (184 fr.)",
+         "Novel.",
+         "x, 332, [1] p. ; 19 cm."
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "creator" : [
+         "Parker, Gilbert, 1862-1932."
+      ],

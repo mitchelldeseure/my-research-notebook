@@ -1,0 +1,44 @@
+      "identifier" : [
+         "8_06922_94"
+      ],
+      "note" : [
+         "Monthly 1913-1920",
+         "Index for Vol. XIV in Vol. XV. No. 2, CIHM no. 8_06922_105."
+      ],
+      "published" : [
+         "Woodstock, Ont. : Printed by the Rod and Gun Press, [1918]"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "title" : [
+         "Canadian Forestry Journal. : Vol. XIV. No. 2 (February, 1918.)"
+      ],
+      "type" : "document"
+   },
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06922_94/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06911_528/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "version" : "0.4",
+   "doc" : {
+      "contributor" : "oocihm",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06911_528",
+      "label" : "Vol. XXI. No. 6 (January 6th, 1917)",
+      "key" : "oocihm.8_06911_528",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06911",
+      "note" : [
+         "Biweekly Feb. 2, 1918-Oct. 15, 1920"
+      ],
+      "published" : [
+         "Toronto : Courier Press, Limited, [1917]"
+      ],
+      "lang" : [
+         "eng"
+      ],

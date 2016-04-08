@@ -1,0 +1,49 @@
+      "identifier" : [
+         "8_06251_297"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "Toronto : Ontario Pub. Co., [1917]"
+      ],
+      "note" : [
+         "Monthly",
+         "Index for v. 50 included in this issue."
+      ],
+      "pkey" : "oocihm.8_06251",
+      "media" : [
+         "text"
+      ],
+      "key" : "oocihm.8_06251_297",
+      "label" : "Vol. 50, no. 1 (Nov. 1917)",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06251_297",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06912_186/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "source" : [
+         "Scanned from a microfilm held by Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06912_186",
+      "label" : "Vol. XVI. No. 6. (June, 1915)",
+      "key" : "oocihm.8_06912_186",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06912",
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "Winnipeg, Canada : Home Publishing Co., [1915]"
+      ],
+      "note" : [
+         "Monthly"
+      ],

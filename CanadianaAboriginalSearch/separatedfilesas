@@ -1,0 +1,44 @@
+      "identifier" : [
+         "8_06879_48"
+      ],
+      "lang" : [
+         "eng"
+      ],
+      "published" : [
+         "Montreal : publisher not identified, [1918]"
+      ],
+      "note" : [
+         "Quarterly"
+      ],
+      "title" : [
+         "The University magazine. : Vol. XVII., No. 4 (December 1918)"
+      ],
+      "type" : "document",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06879_48",
+      "label" : "Vol. XVII., No. 4 (December 1918)",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06879",
+      "key" : "oocihm.8_06879_48",
+      "media" : [
+         "text"
+      ]
+   },
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06879_48/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1"
+}
+{
+   "version" : "0.4",
+   "doc" : {
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06868_103",
+      "label" : "Vol. V, No. 15 (August 3, 1918)",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "pkey" : "oocihm.8_06868",
+      "key" : "oocihm.8_06868_103",
+      "media" : [
+         "text"
+      ],

@@ -1,0 +1,39 @@
+      "identifier" : [
+         "8_06911_451"
+      ],
+      "key" : "oocihm.8_06911_451",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06911",
+      "contributor" : "oocihm",
+      "source" : [
+         "Library and Archives Canada."
+      ],
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06911_451",
+      "label" : "Vol. XVIII. No. 7 (July 17th, 1915)"
+   }
+}
+{
+   "request" : "http://eco.canadiana.ca/view/oocihm.8_06912_193/1?r=0\u0026s=1\u0026fmt=json\u0026api_text=1",
+   "doc" : {
+      "source" : [
+         "Scanned from a microfilm held by Library and Archives Canada."
+      ],
+      "contributor" : "oocihm",
+      "location" : "http://eco.canadiana.ca/view/oocihm.8_06912_193",
+      "label" : "The 1914 War Illustrated",
+      "key" : "oocihm.8_06912_193",
+      "media" : [
+         "text"
+      ],
+      "pkey" : "oocihm.8_06912",
+      "lang" : [
+         "eng"
+      ],
+      "note" : [
+         "Monthly"
+      ],
+      "published" : [
+         "[Winnipeg, Canada : Home Publishing Co., 1916]"
+      ],
