@@ -15,4 +15,5 @@
 * "/"ap-ex-mac.sh" - I ended up just copying and pasting from Professor's github. I was not 100% sure what the course of action was to be with that exercise. However, I can understand the program a bit better now that I've read some other people's ideas of keeping a strictly script file around.
 * I understand now that the ap-ex-mac file is a template to search through **Canadiana Discovery's** digitized materials. I have the output.txt, cleanlist.txt, results.txt, and urlstograb.txt files on my desktop from the command prompts; the search seems to have been a success. 
 * Note to self, Module 2 Exercise 3, if ever needing to revert back, remember to completely stop reading from Windows to until you have to split the output.txt file at the end.
+* Was very confused trying to navigate through the textbook just during that part, so note to self, pay more attention to the task at hand.
 

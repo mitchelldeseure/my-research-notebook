@@ -16,10 +16,17 @@ Outwit Hub
 * FREE - Trial
 * FREE Download - Let's go get [Outwit Hub!](https://www.outwit.com/products/hub/)
 
+Finding a Collection
+* Everything has unique URL .org/details/[IDENTIFIER]
+* An item does not have to share identifiers with it's collection
+* Created a directory with terminal into my research notebook through github to hold the new collection from the BPLSCAS
+* The search returned 9,770 results; was able to export so many into a directory called "/"Collections" and is located within the "/"my-research-notebook"
+
+
 
 ###Random Thoughts:
 ------------------
-*
+* 
 
 ###Exercise Issues/Mistakes:
 ---------------------------
