@@ -9,3 +9,7 @@
 * 'retrieving individual item records' is only really possible with specific document numbers called **'oocihm'**; the only way to get those are to "write a program"
 *
 
+###Random Thoughts:
+---------------
+*"/"ap-ex-mac.sh" - I ended up just copying and pasting from Professor's github. I was not 100% sure what the course of action was to be with that exercise. However, I can understand the program a bit better now that I've read some other people's ideas of keeping a strictly script file around.
+
