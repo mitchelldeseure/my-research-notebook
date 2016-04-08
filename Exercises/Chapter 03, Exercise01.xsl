@@ -5,7 +5,7 @@
 
 <p>The object of the present publication is to furnish to the public a plain, authentic, and unvarnished picture of Negro Slavery, not as it may have existed at some antecedent period of time, but as it exists at the present moment, both in <placeName key="The United States of America" ref= https://en.wikipedia.org/wiki/UnitedStates> the United States of America </placeName>, and in the <placeName key="The Bahamas, Barbados, Cuba, Jamaica, Haiti, The Dominican Republic, Peurto Rico, The U.S. Virgin Islands, The Leeward and Windward Islands, Guyana, Suriname, and Trinidad and Tobago" ref= https://goo.gl/bTlmfe>European Colonies of the West Indies</placeName>, which have been peopled by imported Africans. We shall begin with the United States.</p>
 
-<p style="text-align: center;">#The NEGRO SLAVERY of the UNITED STATES.</center>
+<p>#The NEGRO SLAVERY of the UNITED STATES.</p>
 
 <p>The real nature of Negro slavery, as it exists in the United States, at the present moment, cannot be better exhibited than by republishing an article which made its appearance not long since in a monthly periodical work. It is a review of two volumes of Travels which had recently been published by this country; the one entitled "Travels in Canada and the United States," by <persName key="Hall, Francis" from="?" to="1833" role="Author" ref="https://archive.org/details/sketchesamerica00goog">Lieut. Francis Hall</persName>; and the other, "Sketches of America," by <persName key="Fearon, Henry." from="1770" to="?" role="Author" ref="https://archive.org/details/sketchesofameric00fear">Mr. Fearon</persName>. The article is as follows:-</p>
 
