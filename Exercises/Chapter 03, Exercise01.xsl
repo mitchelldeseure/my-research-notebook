@@ -1,4 +1,4 @@
-<p><biblScope>__1__</biblScope></p>
+__<p><biblScope>1</biblScope></p>__
 
 <p>##NEGRO SLAVERY</p>
 
@@ -16,4 +16,3 @@
 <p>... emigrating to that land of large promise, and, as some allege, of lean performance. We mean to devote the present article to the consideration of a single feature in the picture of American society given by our authors, and on which, as it stands revealed to us in these volumes in all its deformity, we are anxious to fix the regards of our readers. We allude to the NEGRO SLAVERY which pervades a great part of the United states.</p>
 
 </body></text></TEI></teiCorpus>
-
