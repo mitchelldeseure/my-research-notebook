@@ -1,7 +1,7 @@
 #Module 2:
 ===========
 ##Exercise 2 - Outwit Hub
---------------------------
+
 ##Download:
 Downloading Outwit Hub posed no problems to me. It was a bit confusing trying to figure out what was actually the purpose of the exercise at first. I was a little confused at how the commands merely created a table that had the information that the person needs.
 
