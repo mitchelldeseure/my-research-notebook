@@ -1,4 +1,5 @@
-#Module 2: ===
+#Module 2:
+=======
 ##Exercise 3 - APIs
 
 ###General Notes:
