@@ -15,3 +15,7 @@
 * I understand now that the ap-ex-mac file is a template to search through **Canadiana Discovery's** digitized materials. I have the output.txt, cleanlist.txt, results.txt, and urlstograb.txt files on my desktop from the command prompts; the search seems to have been a success. 
 * Note to self, Module 2 Exercise 3, if ever needing to revert back, remember to completely stop reading from Windows to until you have to split the output.txt file at the end.
 
+###For the Prof:
+--------------
+* 
+
