@@ -1,5 +1,4 @@
-#Module 2:
-===========
+#Module 2: ===
 ##Exercise 1
 
 ##[**Commonwealth Wargraves Commission**:](http://www.cwgc.org/)
