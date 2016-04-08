@@ -1,6 +1,6 @@
-<p style="text-align: center;"><biblScope>__1__</biblScope></center>
+<p><biblScope>__1__</biblScope></p>
 
-<p style="text-align: center;">##NEGRO SLAVERY</center>
+<p>##NEGRO SLAVERY</p>
 
 
 <p>The object of the present publication is to furnish to the public a plain, authentic, and unvarnished picture of Negro Slavery, not as it may have existed at some antecedent period of time, but as it exists at the present moment, both in <placeName key="The United States of America" ref= https://en.wikipedia.org/wiki/UnitedStates> the United States of America </placeName>, and in the <placeName key="The Bahamas, Barbados, Cuba, Jamaica, Haiti, The Dominican Republic, Peurto Rico, The U.S. Virgin Islands, The Leeward and Windward Islands, Guyana, Suriname, and Trinidad and Tobago" ref= https://goo.gl/bTlmfe>European Colonies of the West Indies</placeName>, which have been peopled by imported Africans. We shall begin with the United States.</p>
@@ -11,9 +11,9 @@
 
 <p>In undertaking the reviews of the works of <persName key="Hall, Francis" from="?" to="1833" role="Author" ref="https://archive.org/details/sketchesamerica00goog"> Lieutenant Hall</persName> and <persName key="Fearon, Henry." from="1770" to="?" role="Author" ref="https://archive.org/details/sketchesofameric00fear">Mr. Fearon</persName>, we have no intention to amuse our readers with a description of American scenery, or to communicate information on the politics or statistics of the United states. Neither is it our object to discuss the much-agitated question of the advantages of...</p>
 
-<p style="text-align: center;"><biblScope>**2**</biblScope></center>
+<p><biblScope>__2__</biblScope></p>
 
-... emigrating to that land of large promise, and, as some allege, of lean performance. We mean to devote the present article to the consideration of a single feature in the picture of American society given by our authors, and on which, as it stands revealed to us in these volumes in all its deformity, we are anxious to fix the regards of our readers. We allude to the NEGRO SLAVERY which pervades a great part of the United states.
+<p>... emigrating to that land of large promise, and, as some allege, of lean performance. We mean to devote the present article to the consideration of a single feature in the picture of American society given by our authors, and on which, as it stands revealed to us in these volumes in all its deformity, we are anxious to fix the regards of our readers. We allude to the NEGRO SLAVERY which pervades a great part of the United states.</p>
 
 </body></text></TEI></teiCorpus>
 
