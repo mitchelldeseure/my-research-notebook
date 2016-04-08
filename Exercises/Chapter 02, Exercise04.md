@@ -26,8 +26,8 @@ Finding a Collection
 
 ###Random Thoughts:
 ------------------
-* 
+* I'm hoping there will be some fairly cool ways to extract all the info we are able to constantly accumulate.
 
-###Exercise Issues/Mistakes:
+###Exercise/Issues/Mistakes:
 ---------------------------
 *
