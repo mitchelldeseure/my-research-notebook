@@ -63,7 +63,7 @@ Joseph Eve as charg^, Texaa, June 15 1841
 Wm. Henry Daingerfield, Anson Jones, March 10 1843
 Joseph Eve, Anson Jones, March 13 1843
 Isaac Van Zandt, Anson Jones, March 13 1843
-' Daniel Webster, Isaac Van Zandt, March 11 1843
+Daniel Webster, Isaac Van Zandt, March 11 1843
 Isaac Van Zandt, William S. Archer, January 10 1843
 Isaac Van Zandt, Anson Jones, April 5 1843
 Isaac Van Zandt, Daniel Webster, March 23 1843
@@ -399,12 +399,10 @@ E. W. Moore, James Treat, August 25 1840
 E. W. Moore, Muabeau B. Lamar, August 28 1840
 E. W. Moore, Abner S. Lipscomb, August 28 1840
 James Treat, Abner S. Lipscomb, September 7 1840
-Memorandum communicated by Treat, Mexican Government, Septem- 
-ber 5 1840
+Memorandum communicated by Treat, Mexican Government, September 5 1840
 Abner S. Lipscomb, James Treat, September 15 1840
 James Treat, Abner S. Lipscomb, September 29 1840
-Agent of Texas [Treat], Secretary of State of Mexico [Cafledo], Septem- 
-ber 21 1840
+Agent of Texas [Treat], Secretary of State of Mexico [Cafledo], September 21 1840
 James Treat, Abner S. Lipscomb, October 6 1840
 James Treat, Abner S. Lipscomb, October 17 1840
 James Treat, Abner S. Lipscomb, October 25 1840
@@ -984,8 +982,6 @@ Wm. Henry Daingerfield, Ashbel Smith, February 14 1844
 Wm. Henry Daingerfield, V. Rumpff, March 17 1844
 Wm. Henry Daingerfield, V. Rumpff, March 27 1844
 Wm. Henry Daingerfield, Anson Jones, April 20 1844
-lic of Texas and the Hanseatic Republics of Lubeck, Bremen, and Ham- 
-burg, April 17 1844
 Wm. Henry Daingerfield, Anson Jones, April 22 1844
 Wm. Henry Daingerfield, Anson Jones, July 28 1844
 Wm. Henry Daingerfield, Senator Gildmeister, December 21 1844
